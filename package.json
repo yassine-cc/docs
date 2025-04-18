@@ -65,7 +65,7 @@
     "globals": "^15.9.0",
     "mocha": "^10.8.2",
     "node-addon-api": "^8.0.0",
-    "prettier": "3.3.3"
+    "prettier": "3.5.3"
   },
   "optionalDependencies": {
     "@esbuild/linux-x64": "^0.21.5",
